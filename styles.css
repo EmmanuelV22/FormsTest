@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+.borde {
+    border: 1px solid black;
+    height: 150px;
+}
+
+.gris{
+    background-color: rgb(202, 202, 202);
+    border-radius: 7px;
+    width:55%;
+    align-items:center;
+    display:flex;
+    height: 30%;
+}
+
+input[type="radio"] {
+    width: 65%;
+    
+}
+
+.flexx{
+    display:flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+textarea{
+    width:100%px;
+}
+
+.border-secondary {
+    border-color: rgb(218, 218, 218);
+}
+
+p{
+    margin-bottom: -10px;
+    font-size: 13px;
+}
